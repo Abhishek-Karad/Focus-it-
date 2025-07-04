@@ -17,5 +17,4 @@ Task Tracker is a simple, single-page React app that lets users log in with a us
 - React.js
 
 ## 🔗 Live Demo
-
-## 🖼️ Screenshots
+https://focus-it.vercel.app/
